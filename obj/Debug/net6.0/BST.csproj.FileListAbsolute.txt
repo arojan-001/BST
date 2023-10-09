@@ -1,0 +1,15 @@
+C:\Users\araik\source\repos\BST\bin\Debug\net6.0\BST.exe
+C:\Users\araik\source\repos\BST\bin\Debug\net6.0\BST.deps.json
+C:\Users\araik\source\repos\BST\bin\Debug\net6.0\BST.runtimeconfig.json
+C:\Users\araik\source\repos\BST\bin\Debug\net6.0\BST.dll
+C:\Users\araik\source\repos\BST\bin\Debug\net6.0\BST.pdb
+C:\Users\araik\source\repos\BST\obj\Debug\net6.0\BST.csproj.AssemblyReference.cache
+C:\Users\araik\source\repos\BST\obj\Debug\net6.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\araik\source\repos\BST\obj\Debug\net6.0\BST.AssemblyInfoInputs.cache
+C:\Users\araik\source\repos\BST\obj\Debug\net6.0\BST.AssemblyInfo.cs
+C:\Users\araik\source\repos\BST\obj\Debug\net6.0\BST.csproj.CoreCompileInputs.cache
+C:\Users\araik\source\repos\BST\obj\Debug\net6.0\BST.dll
+C:\Users\araik\source\repos\BST\obj\Debug\net6.0\refint\BST.dll
+C:\Users\araik\source\repos\BST\obj\Debug\net6.0\BST.pdb
+C:\Users\araik\source\repos\BST\obj\Debug\net6.0\BST.genruntimeconfig.cache
+C:\Users\araik\source\repos\BST\obj\Debug\net6.0\ref\BST.dll
